@@ -1,4 +1,5 @@
 {
+	"minimum-stability": "dev",
     "repositories": [
     ],
     "require": {
@@ -8,9 +9,9 @@
         "pickles2/broccoli-module-plain-html-elements": "*",
         "pickles2/px2-dec": "dev-develop",
         "pickles2/px2-multitheme": "dev-develop",
-        "pickles2/px2-path-resolver": "2.*",
+        "pickles2/px2-path-resolver": "dev-develop",
         "pickles2/px2-px2dthelper": "dev-develop",
-        "pickles2/px2-remove-attr": "2.*",
+        "pickles2/px2-remove-attr": "dev-develop",
         "pickles2/px2-sitemapexcel": "dev-develop"
     },
     "require-dev": {
